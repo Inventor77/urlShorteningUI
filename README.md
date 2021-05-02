@@ -81,3 +81,6 @@ A massive thank you to our community sponsors!
 - [Zero to Mastery](https://bit.ly/fem-ztm) is an incredible learning resource for all things web development. Led by Andrei Neagoie, the courses are really high-quality content and cover a wide range of in-demand skills.
 - [Diversify Tech](https://bit.ly/fem-diversify-tech) is an amazing resource for underrepresented people in tech. The site features job listings for anyone seeking new opportunities. The resource section is also full of useful links to dive into!
 - [Triplebyte](http://bit.ly/fem-triplebyte) is a really nice offering if you're looking for a new role. It's a free service that lets you take a confidential quiz. Based on your results companies will pitch you for their vacant roles!
+
+![screencapture-file-C-Users-acer-OneDrive-Documents-html-url-shortening-api-master-index-html-2021-05-02-12_23_16](https://user-images.githubusercontent.com/62959484/116815564-b91dd800-ab7b-11eb-955a-0453d5ecabe7.png)
+
